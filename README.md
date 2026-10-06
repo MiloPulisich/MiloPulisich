@@ -191,75 +191,6 @@ El jugador sigue la historia de **Rowan**, quien comienza a descubrir informaci�
 * Diseño de interacciones.
 * Trabajo sobre narrativa y estructura del proyecto.
 
----
-
-## 🪞 Destiny in the Mirror
-
-**Novela visual • Fantasía • Misterio • Narrativa ramificada**
-
-**Motor:** Unity
-**Lenguaje:** C#
-**Arte:** Krita
-**Estado:** 🚧 En desarrollo
-
-Novela visual centrada en **Félix**, un joven que debe viajar entre el mundo real y el mundo de fantasía **Elarion** para restablecer el equilibrio entre ambos mundos y enfrentarse a su antiguo amigo **Lurios**.
-
-### Características
-
-* Sistema de diálogos.
-* Narrativa ramificada.
-* Elecciones del jugador.
-* Eventos de tiempo limitado.
-* Sistema de afinidad.
-* Barra de estado mental.
-* Gestión de escenas.
-* Gestión de personajes mediante C#.
-* Arte 2D.
-
-### Mi participación
-
-* Programación de sistemas.
-* Implementación de diálogos.
-* Implementación de elecciones.
-* Diseño e implementación de narrativa.
-* Arte 2D.
-* Diseño general del proyecto.
-
----
-
-## 🤖 Other Night At Freddy's
-
-**Survival Horror 2D • Plataformas laterales • Sigilo**
-
-**Motor:** Unity
-**Estado:** 🚧 En desarrollo
-
-Proyecto que reinterpreta la fórmula de los juegos de terror con animatrónicos en un formato lateral 2D, combinando **exploración, sigilo y supervivencia**.
-
-### Características
-
-* Sistema de cámaras de seguridad.
-* Exploración lateral.
-* Mecánicas de escondite.
-* Sistema de salud.
-* Sistema de curación.
-* IA de enemigos.
-* Persecuciones.
-* Jumpscares.
-* Sistema de muerte y reinicio.
-* Interacción con el entorno.
-
-### Mi participación
-
-* Programación.
-* Desarrollo de IA.
-* Sistema de cámaras.
-* Mecánicas de gameplay.
-* Arte 2D.
-* Diseño de niveles.
-* Implementación general.
-
----
 
 ## ⚔️ Neural Leak
 
@@ -337,56 +268,7 @@ Proyecto desarrollado durante una Game Jam, centrado en conceptos de **sigilo, i
 
 ---
 
-## 🔥 Entre Sueños y Cenizas
-
-**Acción y aventura 3D • Exploración • Combate**
-
-**Rol:** Artista 2D • Programador secundario
-**Estado:** 🟢 Beta publicada
-
-Proyecto de acción y aventura 3D enfocado en la exploración, el combate y la construcción de una atmósfera propia.
-
-### Mi participación
-
-* Creación de arte 2D.
-* Programación de apoyo.
-* Implementación de sistemas.
-* Prototipado.
-* Pruebas de jugabilidad.
-* Apoyo en el desarrollo general.
-
----
-
-## 🐻 Prototipo Animatrónico
-
-**Terror • Inteligencia Artificial • Interacción**
-
-**Motor:** Unreal Engine 4.27
-**Tecnología:** Blueprints
-**Estado:** 🔬 Prototipo
-
-Prototipo técnico desarrollado para experimentar con sistemas de terror, interacción con el entorno y comportamiento de enemigos.
-
-### Características
-
-* Activación de eventos mediante triggers.
-* Sistemas de colisiones.
-* IA básica de persecución.
-* Interacción con objetos.
-* Eventos ambientales.
-* Experimentación con primera y tercera persona.
-
-### Mi participación
-
-* Programación mediante Blueprints.
-* Implementación de sistemas.
-* Desarrollo de interacciones.
-* IA y comportamiento enemigo.
-* Prototipado de niveles.
-* Implementación de recursos visuales.
-
----
-
+## 
 # 🧪 Testing y desarrollo
 
 Durante mi formación también he trabajado con conceptos relacionados con el **testing de videojuegos y software**.
