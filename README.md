@@ -13,7 +13,7 @@ Trabajo principalmente con **Unity y C#**, y también desarrollo proyectos y pro
 Mi objetivo es seguir creciendo como **Game Developer** y participar en proyectos donde pueda combinar el aspecto **técnico y creativo** del desarrollo de videojuegos.
 
 <br>
-
+![Correo]
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
@@ -386,8 +386,8 @@ Narrative Design        ████████████
 Podés encontrar mis proyectos y trabajos a través de mis perfiles y repositorios.
 
 * 💻 **GitHub:** [MiloPulisich](https://github.com/MiloPulisich)
-* 🎮 **itch.io:** Próximamente
-[* 💼 **LinkedIn:** Próximamente](https://www.linkedin.com/in/milo-pulisich-450b83443/) 
+* 🎮 **itch.io:** [Milo Pulisich](https://milo-pulisich.itch.io/)
+* 💼 **LinkedIn:** [Milo Pulisich Caceres](https://www.linkedin.com/in/milo-pulisich-450b83443/)
 
 ---
 
