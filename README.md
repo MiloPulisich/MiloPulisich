@@ -387,7 +387,7 @@ Podés encontrar mis proyectos y trabajos a través de mis perfiles y repositori
 
 * 💻 **GitHub:** [MiloPulisich](https://github.com/MiloPulisich)
 * 🎮 **itch.io:** Próximamente
-* 💼 **LinkedIn:** Próximamente
+[* 💼 **LinkedIn:** Próximamente](https://www.linkedin.com/in/milo-pulisich-450b83443/) 
 
 ---
 
